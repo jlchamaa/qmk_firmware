@@ -18,7 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #ifndef CONFIG_H
 #define CONFIG_H
-
+#define MASTER_RIGHT
 #include "config_common.h"
 
 #endif
